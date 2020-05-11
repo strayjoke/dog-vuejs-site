@@ -13,11 +13,11 @@ yarn global add vuepress # 或者：npm install -g vuepress
 
 ## 开发模式
 ```
-npm dev docs
+vuepress dev docs
 ```
 
 ## 生产模式
 ```
-npm build docs
+vuepress build docs
 ```
 

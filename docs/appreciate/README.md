@@ -50,7 +50,7 @@ npm run build
 分为左右布局：左侧为`菜单栏`， 右侧再分为上下布局，上部为`顶部栏`，下部为`标签栏`和`内容区域`。
 路由页面主要通过 `router-view` 标签渲染在`内容区域`。
 
-![页面布局](/images/layout.jpg)
+![页面布局](/dog-vuejs-site//images/layout.jpg)
 
 在 `src/layout/TheLayout.vue`
 ```

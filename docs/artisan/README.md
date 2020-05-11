@@ -1,6 +1,6 @@
 # 响应式原理
 
-![响应式图解](/images/active-data.png)
+![响应式图解](/dog-vuejs-site//images/active-data.png)
 
 ### 发布订阅模式
 
